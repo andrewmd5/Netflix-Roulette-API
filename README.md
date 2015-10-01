@@ -13,9 +13,3 @@ So that being said, if you feel the Netflix Roulette API should have a specific 
 https://github.com/Codeusa/Netflix-Roulette-API/issues (tag it as enhancement)
 
 
-##Indiegogo
-There is currently an Indiegogo active if you'd like to help support the API
-
-https://www.indiegogo.com/projects/flix-roulette-api-expansions/x/3590458
-
-
